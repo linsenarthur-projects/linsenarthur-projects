@@ -1,5 +1,5 @@
 Hi there
-My name is Arthur and I a student in Artificial Intelligence. Here you can find some of my projects I have worked on for school and in my spare time.
+My name is Arthur and I am a student in Artificial Intelligence. Here you can find some of my projects I have worked on for school and in my spare time.
 
 You can reach me via [Linkedin](https://www.linkedin.com/in/maxim-derboven/).
 
