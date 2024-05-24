@@ -4,4 +4,4 @@ My name is Arthur and I am a student in Data & Artificial Intelligence. Here you
 You can reach me via [Linkedin](https://www.linkedin.com/in/arthur-linsen/).
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsenarthur-projects&theme=dark" />
-<img align="" src="https://github-readme-stats.vercel.app/api?username=linsenarthur-projects&show_icons=true&theme=dark" />
+<img align="" src="https://github-readme-stats.vercel.app/api?username=linsenarthur-projects&show_icons=true&include_all_commits=true&theme=dark" />
